@@ -1,127 +1,199 @@
-Act as a world-class UI designer and GitHub README expert.
+<!-- ===================== HEADER ===================== -->
 
-Create a modern, premium, dark-themed GitHub Profile README that looks like a professional developer portfolio.
+<h1 align="center">Hi 👋, I'm Gokul S</h1>
 
-My Details:
+<h3 align="center">
+Full Stack Web Developer • MERN Stack Developer • Python Developer
+</h3>
 
-👋 Name: Gokul S
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Python+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+</p>
 
-💻 Title:
-Full Stack Web Developer | MERN Stack Developer | Python Developer
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Minato0630&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-🎓 Education:
-M.Sc Computer Science
-Bishop Heber College
+---
 
-📍 Location:
-Tamil Nadu, India
+# 💫 About Me
 
-🚀 About Me:
-• Passionate Full Stack Developer
-• Building scalable web applications
-• Learning AI, Cloud Computing and DevOps
-• Interested in Open Source
-• Love solving real-world problems
-• Always exploring new technologies
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🛠 Tech Stack
+🎓 M.Sc Computer Science Student at **Bishop Heber College**
 
-Languages:
-Python
-JavaScript
-C
-HTML5
-CSS3
+💻 Passionate **Full Stack Web Developer**
 
-Frontend:
-React.js
-Bootstrap
-Tailwind CSS
-Figma
+🚀 Building scalable MERN applications
 
-Backend:
-Node.js
-Express.js
+🌱 Currently learning **AI, Cloud Computing & DevOps**
 
-Database:
-MongoDB
-MySQL
+💡 Love solving real-world problems
 
-DevOps & Tools:
-Git
-GitHub
-Docker
-VS Code
-Postman
-Vercel
-Netlify
+🤝 Open to internships & freelance opportunities
 
-Current Focus:
-🔥 MERN Stack
-🤖 AI Applications
-☁ Cloud Computing
+⚡ Always exploring new technologies
+
+📍 Tamil Nadu, India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfoliogokul1.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Minato0630">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:pandiyagokul@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css"/>
+
+</p>
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,figma"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify"/>
+
+</p>
+
+---
+
+# 🔥 Current Focus
+
+🧠 AI Applications
+
+⚛️ MERN Stack
+
+☁️ Cloud Computing
+
 📱 Full Stack Projects
 
-Projects
+🚀 Open Source Contributions
 
-🧠 Knowzilla Quiz Portal
-MERN-based online quiz platform.
+---
 
-🎮 Gaming Community Website
+# 🚀 Featured Projects
 
-🌐 Personal Portfolio
+| Project | Description |
+|---------|-------------|
+| 🧠 **Knowzilla Quiz Portal** | MERN Stack Online Quiz Platform |
+| 🎮 **Gaming Community Website** | Gaming community platform |
+| 🌐 **Portfolio Website** | Responsive developer portfolio |
 
-GitHub Stats
+---
 
-Include:
-GitHub Stats Card
+# 📊 GitHub Statistics
 
-Top Languages
+<p align="center">
 
-GitHub Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minato0630&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Contribution Graph
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minato0630&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Activity Graph
+</p>
 
-Achievements
+---
 
-Trophies
+# 🔥 GitHub Streak
 
-Visitor Counter
+<p align="center">
 
-Social Links
+<img src="https://streak-stats.demolab.com?user=Minato0630&theme=tokyonight&hide_border=true"/>
 
-LinkedIn
+</p>
 
-Portfolio Website
+---
 
-Email
+# 📈 Contribution Graph
 
-GitHub
+<p align="center">
 
-Requirements:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minato0630&theme=tokyo-night&hide_border=true"/>
 
-Use stylish icons from skillicons.dev.
+</p>
 
-Use typing SVG animation.
+---
 
-Add beautiful gradient headings.
+# 🏆 GitHub Trophies
 
-Use colorful badges.
+<p align="center">
 
-Use collapsible sections.
+<img src="https://github-profile-trophy.vercel.app/?username=Minato0630&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-Make it mobile responsive.
+</p>
 
-Give a premium developer portfolio look.
+---
 
-Use tables for layout.
+# 📈 Contribution Snake
 
-Use centered sections.
+<p align="center">
 
-Use attractive emojis.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-Make the README look exactly like a top GitHub developer profile.
+</p>
 
-Return only Markdown code.
+---
+
+# ⚡ Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+
+</p>
